@@ -2,3 +2,8 @@ h1{
     background-color: yellowgreen;
     font-size: x-large;
 }
+.babes{
+    border: 5px red;
+    border-radius: 50%;
+    background-color: antiquewhite;
+}
